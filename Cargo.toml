@@ -1,0 +1,9 @@
+[package]
+name = "id"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+num = "0.4"
+atty = "0.2.14"
+fxhash = "0.2.1"
